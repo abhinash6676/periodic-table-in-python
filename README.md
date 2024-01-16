@@ -1,3 +1,2 @@
 # periodic-table-in-python
-
-enter an element, get its details.
+this is a python project involving loops and tuples that lets anyone enter the symbol of any element and get details about it in the manner of a periodic table.
